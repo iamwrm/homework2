@@ -1,0 +1,71 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    font-family: 'Lucida Grande', sans-serif;
+    color: white;
+}
+
+html {
+    background-color: #000000;
+}
+
+h1 {
+    font-size: 64px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    text-shadow: 5px 5px 2px #808080;
+}
+
+p {
+    font-size: 24px;
+    padding-top: 20px;
+}
+
+img {
+    width: 525px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    min-height: 150px;
+    padding: 25px;
+}
+
+#red {
+    background-color: #ff0000;
+    text-align: right;
+}
+
+#blue {
+    background-color: #0000ff;
+    text-align: left;
+}
+
+#green {
+    background-color: #2e882e;
+    text-align: left;
+}
+
+#yellow {
+    background-color: #ffff00;
+    text-align: right;
+    color: black;
+}
+
+#yellow h2 {
+    color: black;
+    text-shadow: 5px 5px 2px #c7e2c7;
+}
+
+#yellow p {
+    color: black;
+}
+
+footer {
+    text-align: right;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
